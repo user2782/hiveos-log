@@ -1,7 +1,6 @@
-# moneytree
-generating fake money
+# rebtech mining research 
 
-mining project using to following:
+## setup
 
 pc: rebetech 8 pgu blockchain
 
