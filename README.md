@@ -3,7 +3,7 @@ generating fake money
 
 mining project using to following:
 
-pc: rebetech 8 pgu blockchain  
+pc: rebetech 8 pgu blockchain
 
 cards: 3 x 5700xt dell oem version  
 
