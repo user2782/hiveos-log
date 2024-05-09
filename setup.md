@@ -8,7 +8,7 @@ storage: msata | ATA KINGSTON SUV500M 120GB
 
 power supply: 
 
-fans: arctic f12 5 pack
-[link on amazon: ](https://amzn.to/4dzDCHS)
+fans: arctic f12 5 pack  
+link on amazon: [https://amzn.to/4dzDCHS]
 
 
