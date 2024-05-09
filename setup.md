@@ -7,6 +7,8 @@
 ### storage: msata | ATA KINGSTON SUV500M 120GB
 note: 32gb usb stick was tested later, highly recommend using this was well, more convenient and affordable  
 
+### graphics cards: 3 x 5700xt | DELL AMD OEM versions
+
 ### power supply: 
 
 ### fans: arctic f12 5 pack  
