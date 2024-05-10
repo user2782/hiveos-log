@@ -4,8 +4,7 @@ repository will act as a journal for results, feel free to review.
 this project is a log of my rig that will include all numerical details and results (profit, revenue, etc.)
 pricing is all reported in CAD
 
-2024-05-09
-$BEAM with 6xgpu setup
+2024-05-09: $BEAM 
 - average hashrate: ~ S/s
 - average total system power consumption: 
 - average cost of electricty on weeekday (24hrs):
