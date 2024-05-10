@@ -8,6 +8,6 @@ $BEAM with 3x5700xt setup
 - average hashrate: ~76 S/s
 - average power consumption: 300W (140 power limit)
 - average cost of electricty on weeekday (24hrs):
-  - 0.087*12 + 0.122*6 + 0.182*6 / 24
+  - (0.087x12 + 0.122x6 + 0.182x6)/24
   - ans: 0.1195 CAD/kWh
 
