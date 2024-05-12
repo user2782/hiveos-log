@@ -7,7 +7,7 @@
 ### storage: msata | ATA KINGSTON SUV500M 120GB
 note: 32gb usb stick was tested later, highly recommend using this was well, more convenient and affordable  
 
-### graphics cards: 3 x 5700xt | DELL AMD OEM versions
+### graphics cards: 3x 5700xt | DELL AMD OEM versions
 
 ### power supply: 
 
@@ -15,6 +15,16 @@ note: 32gb usb stick was tested later, highly recommend using this was well, mor
 link on amazon: https://amzn.to/4dzDCHS
 
 ### case (frame)
+
+### extras
+- 6x pcie riser
+- 6x usb cables
+- 2x 8 pin to 2x 8 pin splitter
+
+# setup updated
+
+### graphics card: 3x 3060 | GeForce RTX™ 3060 GAMING OC 12G
+
 
 
 
