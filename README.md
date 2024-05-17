@@ -15,7 +15,7 @@ the log in reports of the results from my 2 completed rigs
   - +100-200W should be considered as rest of system power not measured on hiveos
   - total: ~ 1.822kW
 - the rig is only run during the night from 7-7 (12 hours) @ a rate of 0.087 CAD/kW
-  - cost of electrictiy: 0.087x1.822x12 = 1.90 CAD
+  - cost of electrictiy: 0.087x1.822x12 = 1.90 CAD  
 __Profit__: 2.77 - 1.90 = 0.87 CAD every 12 hours
 
 
