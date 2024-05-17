@@ -1,3 +1,5 @@
+disclaimer, repository has affiliate  links
+
 # rebtech mining log 
 
 repository will act as a journal for results, feel free to review.
