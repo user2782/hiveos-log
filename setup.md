@@ -27,7 +27,7 @@ link on amazon: https://amzn.to/4akgBG0
 
 # setup updated (2nd system)
 
-### graphics card: 3x 3060 | GeForce RTX™ 3060 GAMING OC 12G
+### graphics card: 8x 3060 | GeForce RTX™ 3060 GAMING OC 12G
 
 
 
