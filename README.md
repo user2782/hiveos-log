@@ -1,4 +1,4 @@
-disclaimer, repository has affiliate  links
+_disclaimer, parts of repository may have affiliate links_
 
 # rebtech mining log 
 
