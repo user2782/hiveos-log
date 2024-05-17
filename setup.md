@@ -10,12 +10,15 @@ note: 32gb usb stick was tested later, highly recommend using this was well, mor
 ### graphics cards: 3x 5700xt | DELL AMD OEM versions 
 ### graphics cards: 3x 3060 | Gigabyte Eagle GeForce RTX™ 3060 GAMING OC 12G
 
-### power supplies: 
+### power supplies: 1000W + 850W
+- 1000W EVGA...
+- 850W MSI...
 
 ### fans: arctic f12 5 pack  
 link on amazon: https://amzn.to/4dzDCHS
 
-### case (frame)
+### case (frame): 8 gpu mining rig frame
+link on amazon: https://amzn.to/4akgBG0
 
 ### extras
 - 6x pcie riser
