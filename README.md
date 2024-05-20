@@ -2,10 +2,10 @@ _disclaimer, parts of repository may have affiliate links_
 
 # rebtech mining log 
 
-repository will act as a journal for results, feel free to review.
+repository will act as a journal for weekly results, feel free to review.
 this project is a log of my rig that will include all numerical details and results (profit, revenue, etc.)
 pricing is all reported in CAD  
-the log in reports of the results from my 2 completed rigs
+the log in reports of the results from my 2 completed rigs (check in setup)
 
 2024-05-16: Ravencoin 
 - average hashrate: 283.43 MH/s
@@ -20,6 +20,8 @@ the log in reports of the results from my 2 completed rigs
   - cost of electrictiy: 0.087x1.822x12 = 1.90 CAD
 
 __Profit__: 2.77 - 1.90 = 0.87 CAD every 12 hours
+
+2024-05-23
 
 
 
