@@ -4,8 +4,7 @@ _disclaimer: amazon links may not be the exact same item_
 ### motherboard: rebetech blockchain 8 gpu | AC400IC TUL (AC400IC.0001.11 09/11/2018)
 - integrated graphics: Radeon R5
 - integrated cpu: 2 × AMD A6-8500P
-
-- link on amazon: https://amzn.to/3wSk00Z  
+- link on amazon: https://amzn.to/3wSk00Z
 - purchased: locally on facebook marketplace
 
 ### storage: msata | ata kingston suv500m 120gb
@@ -14,19 +13,19 @@ _disclaimer: amazon links may not be the exact same item_
 
 ### graphics cards: 3x dell amd oem 5700xt
 ### graphics cards: 3x gigabyte 3060 gaming oc 12g
-purchased on facebook marketplace  
+- purchased on facebook marketplace  
 
 ### power supplies: 1000W + 850W
 - 1000W EVGA...
 - 850W MSI...
 
 ### fans: arctic f12 5 pack  
-    link on amazon: https://amzn.to/4dzDCHS
-    purchased on amazon
+- link on amazon: https://amzn.to/4dzDCHS
+- purchased on amazon
 
 ### case (frame): 8 gpu mining rig frame
-    link on amazon: https://amzn.to/4akgBG0
-    purchased on facebook marketplace
+- link on amazon: https://amzn.to/4akgBG0
+- purchased on facebook marketplace
 
 ### extras
 - 6x pcie riser
