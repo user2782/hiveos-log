@@ -6,7 +6,7 @@ repository will act as a journal for weekly results, feel free to review.
 this project is a log of my rig that will include all numerical details and results (profit, revenue, etc.)
 pricing is all reported in CAD  
 
-there will be weekly log reports of the results from my 2 completed rigs - [`setup`](hiveos-log/setup.md)
+there will be weekly log reports of the results from my 2 completed rigs - [`setup`](/setup.md)
 
 2024-05-16: Ravencoin 
 - average hashrate: 283.43 MH/s
