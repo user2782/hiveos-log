@@ -7,12 +7,12 @@ _disclaimer: amazon links may not be to the exact same item i used_
 link on amazon: https://amzn.to/3wSk00Z
 purchased: locally on facebook marketplace
 
-### storage: msata | ATA KINGSTON SUV500M 120GB
-note: 32gb usb stick was tested later, highly recommend using this was well, more convenient and affordable
+### storage: msata | ata kingston suv500m 120gb
+_note: usb sticks also work, highly recommend usb instead if possible, much more convenient and affordable_
 purchased on facebook marketplace
 
-### graphics cards: 3x 5700xt | DELL AMD OEM versions 
-### graphics cards: 3x 3060 | Gigabyte Eagle GeForce RTX™ 3060 GAMING OC 12G
+### graphics cards: 3x dell amd oem 5700xt
+### graphics cards: 3x gigabyte 3060 gaming oc 12g
 purchased on facebook marketplace
 
 ### power supplies: 1000W + 850W
@@ -35,7 +35,10 @@ purchased on facebook marketplace
 
 # setup updated (2nd system)
 
-### graphics card: 8x 3060 | GeForce RTX™ 3060 GAMING OC 12G
+### motherboard
+
+### storage: 32gb sandisk 3.0 usb stick
+### graphics card: 8x gigabyte 3060 gaming oc 12g
 
 
 
