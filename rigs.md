@@ -9,7 +9,7 @@ _disclaimer: amazon links may not be to the exact same item i used_
   purchased: locally on facebook marketplace  
 
 ### storage: msata | ata kingston suv500m 120gb
-    _note: usb sticks also work, highly recommend usb instead if possible, much more convenient and affordable_  
+  _note: usb sticks also work, highly recommend usb instead if possible, much more convenient and affordable_  
     purchased on facebook marketplace  
 
 ### graphics cards: 3x dell amd oem 5700xt
