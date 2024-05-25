@@ -3,10 +3,10 @@ _disclaimer: amazon links may not be to the exact same item i used_
 
 ### motherboard: rebetech blockchain 8 gpu | AC400IC TUL (AC400IC.0001.11 09/11/2018)
 - integrated graphics: Radeon R5
-- integrated cpu: 2 × AMD A6-8500P  
+- integrated cpu: 2 × AMD A6-8500P
 
   link on amazon: https://amzn.to/3wSk00Z  
-  purchased: locally on facebook marketplace  
+  purchased: locally on facebook marketplace
 
 ### storage: msata | ata kingston suv500m 120gb
   _note: usb sticks also work, highly recommend usb instead if possible, much more convenient and affordable_  
